@@ -2,7 +2,7 @@
 
 @extends('home')
 
-@section('title', 'Detail Projects')
+@section('title', 'Detail Project')
 
 @section('konten')
     <div class="bg-slate-950 py-14">
