@@ -1,3 +1,5 @@
+<!-- ======= pages/admin/home/buttonAdmin ======= -->
+
 <div class="relative inline-block bottom-5 mt-5">
     <div class="group">
         <button type="button"
